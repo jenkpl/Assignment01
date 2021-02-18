@@ -117,7 +117,7 @@ alert("Hello " + name + greet);
 
 
 let name = "Jennifer Kim"
-let course = "JavaScriptTwo";
+let course = "JavaScript";
 alert("Hello " + name + ", welcome to the " + course +" class!");
 
 //STEP 14
